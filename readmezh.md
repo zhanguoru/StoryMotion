@@ -35,6 +35,9 @@
 
 ---
 
+<img width="863" height="677" alt="image" src="https://github.com/user-attachments/assets/bff010b6-1e55-429b-96f9-125cd4c2b902" />
+
+
 ## 下载
 
 前往 Releases 页面下载最新版。
