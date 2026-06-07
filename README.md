@@ -26,7 +26,8 @@ No video editing experience required.
 
 ## Screenshot
 
-(软件截图)
+<img width="863" height="677" alt="image" src="https://github.com/user-attachments/assets/caf3c101-87b3-4b73-954c-e95414f5aeee" />
+
 
 ---
 
