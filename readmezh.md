@@ -51,6 +51,8 @@ StoryMotion 为商业软件。
 
 ---
 
+## 激活码：ZGF4-G1NK-LRUH
+
 ## 联系方式
 
 Email：
