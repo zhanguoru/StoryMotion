@@ -55,6 +55,8 @@ A valid license may be required for continued use.
 
 ---
 
+## Activation code：ZGF4-G1NK-LRUH
+
 ## Support
 
 Email:
